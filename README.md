@@ -20,6 +20,7 @@ BELOW descriptions of the data.
 6 - housing: has housing loan? (categorical: 'no','yes','unknown')
 
 7 - loan: has personal loan? (categorical: 'no','yes','unknown')
+
 8 - contact: contact communication type (categorical: 'cellular','telephone')
 
 9 - month: last contact month of year (categorical: 'jan', 'feb', 'mar', …, 'nov', 'dec')
